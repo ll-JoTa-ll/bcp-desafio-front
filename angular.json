@@ -28,6 +28,7 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.sass"
             ],
             "scripts": []
@@ -123,6 +124,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "desafiofront"
+    }
+  },
+  "defaultProject": "desafiofront",
+  "cli": {
+    "analytics": "acee7d8e-e5cb-4c92-9c59-4c0d628a2bee"
+  }
 }
